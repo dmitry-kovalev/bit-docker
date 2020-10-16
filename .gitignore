@@ -2,3 +2,11 @@
 node_modules
 
 .history
+authorized_keys
+
+# IDE
+.idea
+.vscode
+
+# MacOS specific files
+.DS_Store
