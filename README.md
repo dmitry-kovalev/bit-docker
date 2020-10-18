@@ -94,7 +94,7 @@ Now each command you run, runs on the server.
 To run the `tail` command and get the server's logs, you should first [get bash on the container](#run-bash-on-the-container). Then `tail` Bit's log:
 
 ```sh
-$ tail -f /root/Library/Caches/Bit/logs/debug.log
+$ tail -f /home/bit/Library/Caches/Bit/logs/debug.log
 ```
 
 ## Contributing
